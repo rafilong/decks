@@ -33,7 +33,6 @@
 1 Flickerwisp
 1 Flooded Grove
 1 Fortified Village
-1 Frilled Mystic
 1 Ghostly Flicker
 1 Glacial Floodplain
 1 Glacial Fortress
@@ -88,6 +87,7 @@
 1 Thought Vessel
 1 Time Warp
 1 Timeless Witness
+1 Venser, Shaper Savant
 1 Venser, the Sojourner
 1 Wood Elves
 1 Woodland Cemetery
@@ -95,8 +95,4 @@
 1 Yorion, Sky Nomad
 
 SIDEBOARD:
-1 Cloudshift
-1 Panharmonicon
-1 Ponder
-1 Venser, Shaper Savant
-1 Yarok, the Desecrated
+1 Frilled Mystic
